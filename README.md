@@ -1,2 +1,2 @@
-# lanfing-page
+# landing-page
 Landing page the odin project
